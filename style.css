@@ -83,7 +83,7 @@ body > footer{
     margin: 1vh 3vw;
     padding: 1vh 3vw;
     /* box-shadow: 0.5vmax 0.5vmax 6px rgba(0, 0, 0, 0.8); */
-    /* text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5); */
+    text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
     /* letter-spacing: 0.1vw; */
     /* word-spacing: 0.1vw; */
     border: 1px solid black;
